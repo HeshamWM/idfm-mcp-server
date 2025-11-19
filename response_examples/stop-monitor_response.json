@@ -1,0 +1,290 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "ResponseTimestamp": "2025-11-19T01:33:35.123Z",
+      "ProducerRef": "IVTR_HET",
+      "ResponseMessageIdentifier": "IVTR_HET:ResponseMessage:f890c103-0a24-4881-ae20-cd00fe939f17:LOC:",
+      "StopMonitoringDelivery": [
+        {
+          "ResponseTimestamp": "2025-11-19T01:33:35.138Z",
+          "Version": "2.0",
+          "Status": "true",
+          "MonitoredStopVisit": [
+            {
+              "RecordedAtTime": "2025-11-18T12:07:28.581Z",
+              "ItemIdentifier": "SNCF_MAGENTA_PRD:Item::45102-44-c4a99d88-55b1-481f-b74f-d410fbcf3431:",
+              "MonitoringRef": {
+                "value": "STIF:StopArea:SP:45102:"
+              },
+              "MonitoredVehicleJourney": {
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "OperatorRef": {},
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_MAGENTA_PRD:VehicleJourney::c4a99d88-55b1-481f-b74f-d410fbcf3431:LOC"
+                },
+                "DirectionName": [],
+                "DestinationRef": {
+                  "value": "STIF:StopArea:SP:411440:"
+                },
+                "DestinationName": [
+                  {
+                    "value": "Creil"
+                  }
+                ],
+                "VehicleJourneyName": [
+                  {
+                    "value": "129600-129601"
+                  }
+                ],
+                "JourneyNote": [
+                  {
+                    "value": "SOPA"
+                  }
+                ],
+                "MonitoredCall": {
+                  "StopPointName": [
+                    {
+                      "value": "Châtelet Les Halles"
+                    }
+                  ],
+                  "VehicleAtStop": false,
+                  "DestinationDisplay": [
+                    {
+                      "value": "Creil"
+                    }
+                  ],
+                  "ArrivalStopAssignment": {
+                    "ExpectedQuayRef": {
+                      "value": "STIF:StopPoint:Q:472764:"
+                    }
+                  },
+                  "DepartureStopAssignment": {
+                    "ExpectedQuayRef": {
+                      "value": "STIF:StopPoint:Q:472764:"
+                    }
+                  },
+                  "ExpectedArrivalTime": "2025-11-19T04:17:20.000Z",
+                  "DeparturePlatformName": {
+                    "value": "4Z"
+                  },
+                  "ExpectedDepartureTime": "2025-11-19T04:18:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "Order": 44,
+                  "AimedArrivalTime": "2025-11-19T04:17:20.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "4Z"
+                  },
+                  "AimedDepartureTime": "2025-11-19T04:18:30.000Z",
+                  "ArrivalStatus": "onTime"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "129600"
+                    },
+                    {
+                      "value": "129601"
+                    }
+                  ]
+                },
+                "VehicleFeatureRef": [
+                  "longTrain"
+                ],
+                "DirectionRef": {
+                  "value": "Aller"
+                }
+              }
+            },
+            {
+              "RecordedAtTime": "2025-11-18T13:58:03.224Z",
+              "ItemIdentifier": "SNCF_MAGENTA_PRD:Item::45102-32-fb9def8c-931a-4f81-9f23-17961203a5b5:",
+              "MonitoringRef": {
+                "value": "STIF:StopArea:SP:45102:"
+              },
+              "MonitoredVehicleJourney": {
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "OperatorRef": {},
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_MAGENTA_PRD:VehicleJourney::fb9def8c-931a-4f81-9f23-17961203a5b5:LOC"
+                },
+                "DirectionName": [],
+                "DestinationRef": {
+                  "value": "STIF:StopArea:SP:47909:"
+                },
+                "DestinationName": [
+                  {
+                    "value": "Melun"
+                  }
+                ],
+                "VehicleJourneyName": [
+                  {
+                    "value": "153600-153601"
+                  }
+                ],
+                "JourneyNote": [
+                  {
+                    "value": "ZACO"
+                  }
+                ],
+                "MonitoredCall": {
+                  "StopPointName": [
+                    {
+                      "value": "Châtelet Les Halles"
+                    }
+                  ],
+                  "VehicleAtStop": false,
+                  "DestinationDisplay": [
+                    {
+                      "value": "Melun"
+                    }
+                  ],
+                  "ArrivalStopAssignment": {
+                    "ExpectedQuayRef": {
+                      "value": "STIF:StopPoint:Q:472996:"
+                    }
+                  },
+                  "DepartureStopAssignment": {
+                    "ExpectedQuayRef": {
+                      "value": "STIF:StopPoint:Q:472996:"
+                    }
+                  },
+                  "ExpectedArrivalTime": "2025-11-19T04:30:30.000Z",
+                  "DeparturePlatformName": {
+                    "value": "3"
+                  },
+                  "ExpectedDepartureTime": "2025-11-19T04:31:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "Order": 32,
+                  "AimedArrivalTime": "2025-11-19T04:30:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "3"
+                  },
+                  "AimedDepartureTime": "2025-11-19T04:31:30.000Z",
+                  "ArrivalStatus": "onTime"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153600"
+                    },
+                    {
+                      "value": "153601"
+                    }
+                  ]
+                },
+                "VehicleFeatureRef": [
+                  "longTrain"
+                ],
+                "DirectionRef": {
+                  "value": "Aller"
+                }
+              }
+            },
+            {
+              "RecordedAtTime": "2025-11-18T14:01:44.606Z",
+              "ItemIdentifier": "SNCF_MAGENTA_PRD:Item::45102-32-16e9f8d2-8f27-4006-8190-3402a245f4c3:",
+              "MonitoringRef": {
+                "value": "STIF:StopArea:SP:45102:"
+              },
+              "MonitoredVehicleJourney": {
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "OperatorRef": {},
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_MAGENTA_PRD:VehicleJourney::16e9f8d2-8f27-4006-8190-3402a245f4c3:LOC"
+                },
+                "DirectionName": [],
+                "DestinationRef": {
+                  "value": "STIF:StopArea:SP:43204:"
+                },
+                "DestinationName": [
+                  {
+                    "value": "Stade de France Saint-Denis"
+                  }
+                ],
+                "VehicleJourneyName": [
+                  {
+                    "value": "122500-122501"
+                  }
+                ],
+                "JourneyNote": [
+                  {
+                    "value": "UOPA"
+                  }
+                ],
+                "MonitoredCall": {
+                  "StopPointName": [
+                    {
+                      "value": "Châtelet Les Halles"
+                    }
+                  ],
+                  "VehicleAtStop": false,
+                  "DestinationDisplay": [
+                    {
+                      "value": "Stade de France Saint-Denis"
+                    }
+                  ],
+                  "ArrivalStopAssignment": {
+                    "ExpectedQuayRef": {
+                      "value": "STIF:StopPoint:Q:472764:"
+                    }
+                  },
+                  "DepartureStopAssignment": {
+                    "ExpectedQuayRef": {
+                      "value": "STIF:StopPoint:Q:472764:"
+                    }
+                  },
+                  "ExpectedArrivalTime": "2025-11-19T04:32:20.000Z",
+                  "DeparturePlatformName": {
+                    "value": "4Z"
+                  },
+                  "ExpectedDepartureTime": "2025-11-19T04:33:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "Order": 32,
+                  "AimedArrivalTime": "2025-11-19T04:32:20.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "4Z"
+                  },
+                  "AimedDepartureTime": "2025-11-19T04:33:30.000Z",
+                  "ArrivalStatus": "onTime"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "122500"
+                    },
+                    {
+                      "value": "122501"
+                    }
+                  ]
+                },
+                "VehicleFeatureRef": [
+                  "longTrain"
+                ],
+                "DirectionRef": {
+                  "value": "Aller"
+                }
+              }
+            }
+          ],
+          "StopLineNotice": [],
+          "ServiceException": []
+        }
+      ]
+    }
+  }
+}
